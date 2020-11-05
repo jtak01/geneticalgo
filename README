@@ -1,0 +1,15 @@
+Jun Sung Tak
+GA.py
+Genetic Algorithms
+
+This program utilizes a genetic algorithm in an attempt to solve the knapsack
+problem. It uses single point cross over and each genotype has a 10% chance
+of a single mutation. Each genotype can be mutated at most once every
+generation. Population size is set at 1000.
+
+Knapsack Problem-
+There are multiple items with values and weights. You can put any number of
+items in the knapsack as long as it is under the maximum weight. The problem
+is to attain the highest value while staying under the maximum weight.
+
+
