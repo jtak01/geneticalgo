@@ -5,7 +5,9 @@ Genetic Algorithms
 This program utilizes a genetic algorithm in an attempt to solve the knapsack
 problem. It uses single point cross over and each genotype has a 10% chance
 of a single mutation. Each genotype can be mutated at most once every
-generation. Population size is set at 1000.
+generation. Population size is set at 1000. Note that genetic algorithms do not
+yield the optimal solution. It gives an idea of how the problem changes as
+the solutions get closer and closer to optimal level.
 
 Knapsack Problem-
 There are multiple items with values and weights. You can put any number of
