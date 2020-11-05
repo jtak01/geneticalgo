@@ -12,4 +12,5 @@ There are multiple items with values and weights. You can put any number of
 items in the knapsack as long as it is under the maximum weight. The problem
 is to attain the highest value while staying under the maximum weight.
 
-
+GA.py - The program that runs the genetic algorithm. Written in python
+sol.txt - An example output of the genetic algorithm running. 
